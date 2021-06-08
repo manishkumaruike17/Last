@@ -1,0 +1,40 @@
+{
+    "access_token": "ya29.a0AfH6SMBnYfog7iSxg3wc1oGgKkvVcshREgT5K1tyKDvDhKdBjns-60u_hcg12gCkO9Wh-WaAuKhJytCtsPAw7tTD-yrlJYwjBjcNoE-1xEP8PMh1evqt8JJ6GfuCf_bums7Za1yNwJbB_RGy6Ez9weu_S7vcuA",
+    "account_list": [
+        {
+            "auth": "uvnnu1xfj67vvsrgllowt931yyhm9lzohfrvmc21r5le50an6r",
+            "password": "1234",
+            "pic": "",
+            "username": "Admin"
+        }
+    ],
+    "arcio": "dev",
+    "auth": true,
+    "build_interval": 120,
+    "build_type": "hybrid",
+    "category_list": [
+        {
+            "id": "1SveBAJ75S6IC5SfnS4OWSAHEAO_HkoAm",
+            "language": "en",
+            "name": "Movies",
+            "type": "Movies"
+        },
+        {
+            "id": "",
+            "language": "en",
+            "name": "",
+            "type": ""
+        }
+    ],
+    "client_id": "407281090737-nltvnh70kfbmo6anqaf7atqmb4pkgl9m.apps.googleusercontent.com",
+    "client_secret": "wNsLvK29NxAFyRJI1Eq5U6Nz",
+    "cloudflare": "https://holy-paper-c954.movies-crunch.workers.dev/",
+    "refresh_token": "1//0gH62tPYQPA_7CgYIARAAGBASNwF-L9IrdbF73Ag8TEBOPx_faxxJ-Bic9GmxLNc23sdxrz8X8ni48D_B0j_-vXF2qQokH2pxEQc",
+    "secret_key": "1234",
+    "service_accounts": [],
+    "signup": false,
+    "subtitles": false,
+    "tmdb_api_key": "ed96af92da6d73ab19cba59096d7a08f",
+    "token_expiry": "2021-06-08 14:19:48.285066",
+    "transcoded": false
+}

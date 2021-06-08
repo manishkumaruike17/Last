@@ -18,7 +18,7 @@ import flask
 import flask_cors
 import googleapiclient
 import requests
-from PIL import Image, ImageDraw, ImageFont
+
 
 import src.config
 import src.credentials
@@ -1247,9 +1247,9 @@ if __name__ == "__main__":
         if LIBDRIVE_DEBUG.lower() == "true":
             LIBDRIVE_DEBUG = True
         else:
-            LIBDRIVE_DEBUG = False
+            LIBDRIVE_DEBUG = True
     else:
-        LIBDRIVE_DEBUG = False
+        LIBDRIVE_DEBUG = True
     app.run(
         host="0.0.0.0",
         port=31145,

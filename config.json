@@ -1,40 +1,71 @@
 {
-    "access_token": "ya29.a0AfH6SMBnYfog7iSxg3wc1oGgKkvVcshREgT5K1tyKDvDhKdBjns-60u_hcg12gCkO9Wh-WaAuKhJytCtsPAw7tTD-yrlJYwjBjcNoE-1xEP8PMh1evqt8JJ6GfuCf_bums7Za1yNwJbB_RGy6Ez9weu_S7vcuA",
+    "access_token": "ya29.a0AfH6SMCMqWn7d5HL9FCk6swZdPXvkhJQNXXjhTDZ3QmA415B7F5jFllatxTowkvbIU092zhNYfKqvq0N1WhrtYI8uzcbbZQcdS0WKhfl_XzjlXgj_2CzICyPE4oJ1R3RSk_IAcHD9TVQRDGJmaZK5hjZl22njQ",
     "account_list": [
         {
-            "auth": "uvnnu1xfj67vvsrgllowt931yyhm9lzohfrvmc21r5le50an6r",
+            "auth": "5zuy2942mevuccbxe2wofx6kwtju68vcbcc77vfy7rrov2prax",
+            "password": "proaf",
+            "pic": "",
+            "username": "Akash"
+        },
+        {
+            "auth": "nuuguashs3s8ardfixsa7zctz8vuablyh0gixci65ol0c0cl3y",
+            "password": "12345",
+            "pic": "",
+            "username": "User"
+        },
+        {
+            "auth": "bqlew0s27k8vqt63xk63h5npfk052nmvfkmk9txf4b9ksard9o",
+            "password": "manish",
+            "pic": "",
+            "username": "manish"
+        },
+        {
+            "auth": "gypi2cs1eo240qlwnucnfnuqhqqp28pbnpefmx5jxphjx1w7od",
+            "password": "111",
+            "pic": "",
+            "username": "A"
+        },
+        {
+            "auth": "i1fls59vggi74p7imnvzc114anu01ejwbvzjhiltwvfou1fwh6",
             "password": "1234",
             "pic": "",
             "username": "Admin"
         }
     ],
-    "arcio": "dev",
+    "arcio": "",
     "auth": true,
-    "build_interval": 120,
-    "build_type": "hybrid",
+    "build_interval": 360,
+    "build_type": "full",
     "category_list": [
         {
-            "id": "1SveBAJ75S6IC5SfnS4OWSAHEAO_HkoAm",
-            "language": "en",
+            "id": "0AFwWxywnwLOEUk9PVA",
+            "name": "TV Series",
+            "type": "TV Shows"
+        },
+        {
+            "id": "0AJbOIIps72pzUk9PVA",
+            "name": "Anime Shows",
+            "type": "TV Shows"
+        },
+        {
+            "id": "0APZj6TTPiBoOUk9PVA",
             "name": "Movies",
             "type": "Movies"
         },
         {
-            "id": "",
-            "language": "en",
-            "name": "",
-            "type": ""
+            "id": "0ACiavP-fA9D2Uk9PVA",
+            "name": "Anime Movies",
+            "type": "Movies"
         }
     ],
-    "client_id": "407281090737-nltvnh70kfbmo6anqaf7atqmb4pkgl9m.apps.googleusercontent.com",
-    "client_secret": "wNsLvK29NxAFyRJI1Eq5U6Nz",
-    "cloudflare": "https://holy-paper-c954.movies-crunch.workers.dev/",
-    "refresh_token": "1//0gH62tPYQPA_7CgYIARAAGBASNwF-L9IrdbF73Ag8TEBOPx_faxxJ-Bic9GmxLNc23sdxrz8X8ni48D_B0j_-vXF2qQokH2pxEQc",
-    "secret_key": "1234",
-    "service_accounts": [],
-    "signup": false,
-    "subtitles": false,
-    "tmdb_api_key": "ed96af92da6d73ab19cba59096d7a08f",
-    "token_expiry": "2021-06-08 14:19:48.285066",
-    "transcoded": false
+    "client_id": "282415927483-nl4lb648t9urub4pjfnjtftdaredbn6q.apps.googleusercontent.com",
+    "client_secret": "2S4LQiZlY4RuswChkxI9AT7d",
+    "cloudflare": "https://cdn.flixverse.workers.dev/",
+    "kill_switch": false,
+    "refresh_token": "1//0gumNt-aNw8o0CgYIARAAGBASNwF-L9Ir9nPpPsFZgCOHNIHC-a_pdnFCDvFEZOFy8xRvwv1BY1ebF_LE4rHb06LgOuqOJoAYuLc",
+    "secret_key": "FlixAdmin9",
+    "signup": true,
+    "tmdb_api_key": "20bd21f440f37fe181690ec5c5bc4742",
+    "token_expiry": "2021-06-08 08:16:23.338006",
+    "transcoded": true
 }

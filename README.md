@@ -1,4 +1,4 @@
-# :film_projector: **#Welcome to FLIXVERSE#** :movie_camera:
+# :film_projector: **Welcome to FLIXVERSE** :movie_camera:
 
 
 ## We are developing the most advance platform to binge your favourite shows with highly efficient CDNs:airplane:

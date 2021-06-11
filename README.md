@@ -6,10 +6,10 @@
 
 ### :arrow_double_down:*You can find our work here:*:arrow_double_down:
 
-# [FLIXVERSE](https://flixverse-drivecontents.herokuapp.com/)
+# [FLIXVERSE](https://flixverse.cf/)
 
 
-#### You can follow our [Telegram Channel](https://t.me/flixverse)
+#### Follow our [Telegram Channel](https://t.me/flixverse)
 
 # Have a look at some screenshots
 
